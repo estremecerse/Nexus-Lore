@@ -107,7 +107,7 @@ cd ../frontend
 npm run build
 ```
 
-`main` 分支的 GitHub Actions 会运行相同的后端测试和前端生产构建。
+`main` 分支的 [GitHub Actions 工作流](.github/workflows/)会运行相同的后端测试和前端生产构建。
 
 ## 数据导入脚本
 
